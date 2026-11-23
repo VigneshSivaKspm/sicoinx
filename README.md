@@ -150,3 +150,4 @@ npm run build -w apps/web
 
 ## 📄 License
 This project is licensed under the MIT License.
+"# sicoinx" 
